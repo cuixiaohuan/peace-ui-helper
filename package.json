@@ -1,0 +1,17 @@
+{
+  "name": "peace-ui-helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "cuixiaohuan",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "yarn": "^1.22.4"
+  },
+  "devDependencies": {
+    "vuepress": "^1.5.2"
+  }
+}
