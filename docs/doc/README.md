@@ -6,5 +6,7 @@
 
 - - -
 
-数据展示
-* [list](/doc/数据展示.html#list)
+| 数据展示
+* [list](/doc/数据展示.html#clist)
+* [panel](/doc/数据展示.html#cpanel)
+* [slider](/doc/数据展示.html#cslider)
